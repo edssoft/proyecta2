@@ -8,9 +8,9 @@ Panel de control limpio para el operador y pantalla de proyección sin cursor ni
 
 Descargá la última versión desde la sección **Releases** o desde la web oficial: https://edssoft.com.ar
 
-- **Liviano**: videos, imágenes, cámaras y YouTube. Ideal para colegios, empresas y eventos.
-- **Estándar**: versión general del programa.
-- **Adventista**: incluye Biblias Reina Valera 1909 y 1865 y fondos institucionales.
+- **Liviano**: videos, imágenes, cámaras y YouTube, sin Biblia. Ideal para colegios, empresas y eventos.
+- **Estándar**: todo lo del Liviano más Biblias Reina Valera 1909 y 1865, sin fondos precargados.
+- **Adventista**: todo lo del Estándar más fondos institucionales precargados.
 
 Requisitos: Windows 10 u 11 y una segunda pantalla (TV o proyector) configurada en modo Ampliar.
 
